@@ -18,15 +18,16 @@ My research interests focus on serving <font color="red">critical network compon
 $$\in$$ `{middleboxes, protocol stacks, routers}`
 with <font color="blue">elegant system techniques</font>
 $$\subseteq$$ `{lightweight virtualization, domain-specific language, application-aware scheduling}`.
-Check [my publications]() for details on how we identify and address their intersections.
+Check [my publications](https://qcloud1223.github.io/publications) for details on how we identify and address their intersections.
 
 I am also an enthusiast in <span title="We all know it's not perfect...">CS education</span> reformation,
 to which I have devoted much time and effort.
-Check [Teaching]() for my notions and projects.
+Check [teaching](https://qcloud1223.github.io/teaching) for my notions and projects.
 
 ## News
 
-* <span style="color:red">**(Top)** I am on the job market!</span> If you find my skills and past experiences fit your needs,
+* <span style="color:red">**(Top)** I am looking for a placement in the industry!</span>
+If you find my [skills and past experiences](https://qcloud1223.github.io/publications) fitting your needs,
 feel free to reach out to me via `[yhdang] at [stu] dot [edu] dot [cn]`.
 
 * (Apr. 2026) I will be attending NSDI 26. Say hi to me at the conference!
