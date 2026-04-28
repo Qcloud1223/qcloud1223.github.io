@@ -26,7 +26,7 @@ Check [teaching](https://qcloud1223.github.io/teaching) for my notions and proje
 
 ## News
 
-* <span style="color:red">**(Top)** I am looking for a placement in the industry!</span>
+* <span style="color:red">**(Top)** I am looking for a placement!</span>
 If you find my [skills and past experiences](https://qcloud1223.github.io/publications) fitting your needs,
 feel free to reach out to me via `[yhdang] at [stu] dot [edu] dot [cn]`.
 
