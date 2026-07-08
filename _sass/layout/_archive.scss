@@ -96,6 +96,12 @@
   text-decoration: underline;
 }
 
+.read-more-button--static {
+  cursor: default;
+  pointer-events: none;
+  text-decoration: underline;
+}
+
 /* Ensure the hidden content matches standard text */
 .read-more-content {
   color: var(--global-text-color);
